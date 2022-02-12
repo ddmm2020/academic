@@ -22,8 +22,7 @@ authors:
  
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- []
 
 date: "2022-01-05T00:00:00Z"
 doi: "10.1145/3503221.3508425"
