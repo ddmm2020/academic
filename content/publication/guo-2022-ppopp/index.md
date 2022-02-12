@@ -1,5 +1,5 @@
 ---
-title: "Pushing the limit of molecular dynamics with ab initio accuracy to 100 million atoms with machine learning"
+title:"Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -25,11 +25,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2020-01-05T00:00:00Z"
+date: "2022-01-05T00:00:00Z"
 doi: "10.1145/3503221.3508425"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-05T00:00:00Z"
+publishDate: "2022-01-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
