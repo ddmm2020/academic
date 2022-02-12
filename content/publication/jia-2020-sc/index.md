@@ -16,8 +16,7 @@ authors:
  
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- []
 
 date: "2020-11-01T00:00:00Z"
 doi: "10.1109/SC41405.2020.00009"
@@ -38,7 +37,7 @@ publication_short: In *SC2020*
 abstract: For 35 years, ab initio molecular dynamics (AIMD) has been the method of choice for modeling complex atomistic phenomena from first principles. However, most AIMD applications are limited by computational cost to systems with thousands of atoms at most. We report that a machine learning based simulation protocol (Deep Potential Molecular Dynamics), while retaining ab initio accuracy, can simulate more than 1 nanosecond-long trajectory of over 100 million atoms per day, using a highly optimized code (GPU DeePMD-kit) on the Summit supercomputer. Our code can efficiently scale up to the entire Summit supercomputer, attaining 91 PFLOPS in double precision (45.5% of the peak) and 162/275 PFLOPS in mixed-single/half precision. The great accomplishment of this work is that it opens the door to simulating unprecedented size and time scales with ab initio accuracy. It also poses new challenges to the next-generation supercomputer for a better integration of machine learning and physical modeling.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags: []
 
