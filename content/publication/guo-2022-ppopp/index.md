@@ -1,5 +1,5 @@
 ---
-title:"Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms"
+title: "Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
