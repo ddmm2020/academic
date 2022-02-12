@@ -41,7 +41,28 @@ publication_types: ["1"]
 publication: In *Principles and Practice of Parallel Programming 2022*
 publication_short: In *PPoPP 2022*
 
-abstract: For 35 years, ab initio molecular dynamics (AIMD) has been the method of choice for modeling complex atomistic phenomena from first principles. However, most AIMD applications are limited by computational cost to systems with thousands of atoms at most. We report that a machine learning based simulation protocol (Deep Potential Molecular Dynamics), while retaining ab initio accuracy, can simulate more than 1 nanosecond-long trajectory of over 100 million atoms per day, using a highly optimized code (GPU DeePMD-kit) on the Summit supercomputer. Our code can efficiently scale up to the entire Summit supercomputer, attaining 91 PFLOPS in double precision (45.5% of the peak) and 162/275 PFLOPS in mixed-single/half precision. The great accomplishment of this work is that it opens the door to simulating unprecedented size and time scales with ab initio accuracy. It also poses new challenges to the next-generation supercomputer for a better integration of machine learning and physical modeling.
+abstract:   High-performance computing, together with a neural network model trained from
+  data generated with first-principles methods, has greatly boosted applications
+  of ab initio molecular dynamics in terms of spatial and temporal scales on
+  modern supercomputers. Previous state-of-the-art can achieve 1 − 2 nanoseconds
+  molecular dynamics simulation per day for 100-million atoms on the entire
+  Summit supercomputer. In this paper, we have significantly reduced the memory
+  footprint and computational time by a comprehensive approach with both
+  algorithmic and system innovations. The neural network model is compressed by
+  model tabulation, kernel fusion, and redundancy removal. Then optimizations
+  such as acceleration of customized kernel, tabulation of activation function,
+  MPI+OpenMP parallelization are implemented on GPU and ARM architectures.
+  Testing results of the copper system show that the optimized code can scale up
+  to the entire machine of both Fugaku and Summit, and the corresponding system
+  size can be extended by a factor of 134 to an unprecedented 17 billion atoms.
+  The strong scaling of a 13.5- million atom copper system shows that the
+  time-to-solution can be 7 times faster, reaching 11.2 nanoseconds per day.
+  This work opens the door for unprecedentedly large-scale molecular dynamics
+  simulations based on ab initio accuracy and can be potentially utilized in
+  studying more realistic applications such as mechanical properties of metals,
+  semiconductor devices, batteries, etc. The optimization techniques detailed in
+  this paper also provide insight for relevant high-performance computing
+  applications.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
