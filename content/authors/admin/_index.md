@@ -25,7 +25,7 @@ Interests:
 # Education to show in About widget
 Education:
   courses:
-  - course: 副研究员（博士生导师
+  - course: 副研究员（博士生导师）
     institution: 中科院计算技术研究所
     year: 2020-至今
   - course: 数学系  博士后
