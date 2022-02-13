@@ -4,10 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 课题组简介
+    url: '#welcome'
+    weight: 9
+  - name: 课题组带头人
     url: '#about'
     weight: 10
-  - name: People
+  - name: 研究队伍
     url: '#people'
     weight: 12
   - name: Accomplishments
