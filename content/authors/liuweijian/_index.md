@@ -16,33 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
-Interests:
-- 高性能计算
-- 人工智能
-- 第一性原理计算
-
-# Education to show in About widget
-Education:
-  courses:
-  - course: 副研究员（博士生导师）
-    institution: 中科院计算技术研究所
-    year: 2020-至今
-  - course: 数学系  博士后
-    institution: 加州大学伯克利分校 
-    year: 2016-2020
-  - course: 材料科学系 联合培养博士生
-    institution: 劳伦斯伯克利国家实验室
-    year: 2014-2016
-  - course: 博士
-    institution: 中国科学院大学（计算机网络信息中心）
-    year: 2013-2016
-  - course: 硕士
-    institution: 中国科学院大学（计算机网络信息中心）
-    year: 2009-2013
-  - course: 计算机系 本科
-    institution: 西安电子科技大学
-    year: 2003-2007
+user_groups: ["Researchers", "Visitors"]
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
