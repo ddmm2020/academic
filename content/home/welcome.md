@@ -7,8 +7,8 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  ISCG  
-  智能科学计算组
+  中科院计算所  
+  智能科学计算组(ISCG)
 subtitle: 中科院计算所 高性能计算中心
 
 hero_media: welcome.jpg
