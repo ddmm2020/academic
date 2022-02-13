@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: 课题组成员
-subtitle: 当前在职/读
+title: 研究队伍
+subtitle: 
 
 content:
   # Choose which groups/teams of users to display.
