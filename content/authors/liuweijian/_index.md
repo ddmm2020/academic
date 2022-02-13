@@ -6,7 +6,7 @@ title: 刘伟健
 superuser: false
 
 # Role/position/tagline
-role: 硕士研究生
+role: 2022年入学
 
 # Organizations/Affiliations to show in About widget
 organizations:

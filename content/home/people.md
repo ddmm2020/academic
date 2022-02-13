@@ -17,7 +17,13 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Principal Investigators
+  - 科研人员
+  - 博士研究生
   - 硕士研究生
+  - 客座学生
+  - 曾经在本组的学生
+  - 曾经在本组的博士后
+  - 曾经在本组进行学术访问的学者
   - Researchers
   - Grad Students
   - Administration
