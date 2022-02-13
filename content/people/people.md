@@ -22,6 +22,8 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - 硕士研究生
+  - 博士研究生
 design:
   show_interests: false
   show_role: true
