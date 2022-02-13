@@ -7,9 +7,8 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  中科院计算所
-  高性能计算中心  
   智能科学计算组
+subtitle: 中科院计算所 高性能计算中心
 
 hero_media: welcome.jpg
 design:
