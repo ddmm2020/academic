@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-user_groups: ["Principal Investigators","Researchers","Grad Students","Administration","Visitors","Alumni"]
+user_groups: ["科研人员","Researchers","Grad Students","Administration","Visitors","Alumni"]
 
 # Interests to show in About widget
 Interests:
