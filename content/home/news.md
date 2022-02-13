@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 50
 
-title: Latest News
+title: 近期新闻
 subtitle:
 
 content:
