@@ -20,7 +20,7 @@ main:
     url: '#people'
     weight: 45
   - name: 新闻
-    url: '#pages'
+    url: '#news'
     weight: 50
 
 
