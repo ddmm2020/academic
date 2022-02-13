@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: 课题组成员
-subtitle: 当前在职/读
+title: Meet the Team
+subtitle:
 
 content:
   # Choose which groups/teams of users to display.
@@ -22,6 +22,7 @@ content:
   - Administration
   - Visitors
   - Alumni
+
 design:
   show_interests: false
   show_role: true
