@@ -3,7 +3,7 @@
 title: 贾伟乐
 
 # Is this the primary user of the site?
-superuser: True
+superuser: false
 
 # Role/position/tagline
 role: 副研究员,博士生导师
