@@ -7,11 +7,10 @@ title: "Parallel transport time-dependent density functional theory calculations
 authors:
 - Weile Jia    
 - Lin-Wang Wang 
-- Lin Lin*
+- Lin Lin 
  
 # Author notes (optional)
 author_notes:
-- 
 
 date: "2019-11-17T00:00:00Z"
 doi: "10.1109/SC41405.2020.00009"
