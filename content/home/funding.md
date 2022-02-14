@@ -6,7 +6,7 @@ headless: true
 title: 科研项目
 subtitle:
 weight: 40  # section position on page
-active: false
+active: true
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
