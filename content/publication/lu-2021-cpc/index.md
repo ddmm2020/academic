@@ -26,7 +26,7 @@ author_notes:
 - "通讯作者"
 
 date: "2021-02-01T00:00:00Z"
-doi: "10.17632/phyn4kgsfx.1"
+doi: "https://doi.org/10.1016/j.cpc.2020.107624"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-02-01T00:00:00Z"
