@@ -1,12 +1,12 @@
 ---
 # Display name
-title: soon
+title: 测试
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: 
+role: 测试用图
 
 # Organizations/Affiliations to show in About widget
 organizations:
