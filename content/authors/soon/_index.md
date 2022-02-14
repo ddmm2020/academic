@@ -1,6 +1,6 @@
 ---
 # Display name
-title: coming soon
+title: soon
 
 # Is this the primary user of the site?
 superuser: false
