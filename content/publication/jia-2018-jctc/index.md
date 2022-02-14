@@ -32,8 +32,8 @@ publishDate: "2018-10-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computer Physics Communications, 2021*
-publication_short: In *Comput Phys Commun2021*
+publication: In *Journal of chemical theory and computation, 2018*
+publication_short: In *J. Chem. Theory Comput2018*
 
 abstract:  Real-time time-dependent density functional theory (RT-TDDFT) is known to be
   hindered by the very small time step (attosecond or smaller) needed in the
