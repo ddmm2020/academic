@@ -5,13 +5,13 @@ title: "Parallel transport time-dependent density functional theory calculations
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Weile Jia  
+- Weile Jia    
 - Lin-Wang Wang 
 - Lin Lin*
  
 # Author notes (optional)
 author_notes:
-- []
+- 
 
 date: "2019-11-17T00:00:00Z"
 doi: "10.1109/SC41405.2020.00009"
