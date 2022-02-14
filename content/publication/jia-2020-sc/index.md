@@ -16,7 +16,7 @@ authors:
  
 # Author notes (optional)
 author_notes:
-- ["Corresponding Author"]
+- "Corresponding Author"
 
 date: "2020-11-01T00:00:00Z"
 doi: "10.1109/SC41405.2020.00009"
