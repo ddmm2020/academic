@@ -3,10 +3,10 @@
 title: 贾伟乐
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position/tagline
-role: 副研究员,博士生导师
+role: 副研究员,计算机体系结构博导
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# user_groups: ["科研人员"]
+user_groups: ["科研人员"]
 
 # Interests to show in About widget
 Interests:
@@ -76,7 +76,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 本课题组由中国科学院计算所副研究员、中科院百人计划入选者贾伟乐博士带领，主要研究方向为高性能计算、第一性原理计算、人工智能交叉（HPC + AI）方向。
 美国时间2020年11月19日，在线上举行的2020年全球高性能计算、网络、存储和分析大会（SC20）上，由贾伟乐博士及其合作者共同完成的应用成果“Pushing the limit of molecular dynamics with ab initio accuracy to 100 million atoms with machine learning.”一举获得国际高性能计算应用领域最高奖——戈登贝尔奖（ACM Gordon Bell Prize）。
