@@ -18,7 +18,7 @@ authors:
 - Linfeng Zhang
 - Mohan Chen
 - Han Wang
-- Weile Jia*
+- Weile Jia    
  
 # Author notes (optional)
 author_notes:
