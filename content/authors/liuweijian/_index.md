@@ -1,6 +1,6 @@
 ---
 # Display name
-title: a刘伟健
+title: 刘伟健
 
 # Is this the primary user of the site?
 superuser: false
