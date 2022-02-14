@@ -13,7 +13,7 @@ subtitle: 中科院计算所 高性能计算中心
 # hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '0'
   # Add custom styles
   css_style:
   css_class:
