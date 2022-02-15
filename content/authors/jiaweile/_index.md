@@ -53,16 +53,16 @@ Education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/202102/t20210221_5892789.html'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Kzi4rW0AAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jiaweile
 
 
 # Link to a PDF of your resume/CV.
